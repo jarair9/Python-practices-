@@ -1,0 +1,102 @@
+{
+    "1": {
+        "question": "What is the purpose of the `__init__` method in Python classes?",
+        "options": [
+            "To create a new class",
+            "To initialize an object of the class",
+            "To delete an object of the class",
+            "To define a static method"
+        ],
+        "answer": "To initialize an object of the class"
+    },
+    "2": {
+        "question": "Which of the following data types is immutable in Python?",
+        "options": [
+            "List",
+            "Dictionary",
+            "Tuple",
+            "Set"
+        ],
+        "answer": "Tuple"
+    },
+    "3": {
+        "question": "What is the output of `print(2 ** 3 + (5 + 2))`?",
+        "options": [
+            "15",
+            "17",
+            "21",
+            "24"
+        ],
+        "answer": "15"
+    },
+    "4": {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+            "class",
+            "def",
+            "function",
+            "define"
+        ],
+        "answer": "def"
+    },
+    "5": {
+        "question": "What does the `len()` function do in Python?",
+        "options": [
+            "Returns the largest element in a list",
+            "Returns the length of a string or list",
+            "Returns the lowest element in a list",
+            "Sorts a list"
+        ],
+        "answer": "Returns the length of a string or list"
+    },
+    "6": {
+        "question": "What is the purpose of the `try...except` block in Python?",
+        "options": [
+            "To define a function",
+            "To handle exceptions",
+            "To create a loop",
+            "To define a class"
+        ],
+        "answer": "To handle exceptions"
+    },
+    "7": {
+        "question": "Which of the following is a valid way to open a file in Python for reading?",
+        "options": [
+            "file = open('myfile.txt', 'w')",
+            "file = open('myfile.txt', 'x')",
+            "file = open('myfile.txt', 'r')",
+            "file = open('myfile.txt', 'a')"
+        ],
+        "answer": "file = open('myfile.txt', 'r')"
+    },
+    "8": {
+        "question": "What is the output of `print('Hello' + 'World')`?",
+        "options": [
+            "Hello World",
+            "HelloWorld",
+            "Error",
+            "Hello+World"
+        ],
+        "answer": "HelloWorld"
+    },
+    "9": {
+        "question": "Which of the following is NOT a built-in Python data type?",
+        "options": [
+            "int",
+            "float",
+            "string",
+            "variant"
+        ],
+        "answer": "variant"
+    },
+    "10": {
+        "question": "What does the `//` operator do in Python?",
+        "options": [
+            "Floor division",
+            "Exponentiation",
+            "Modulo",
+            "Integer division (same as /)"
+        ],
+        "answer": "Floor division"
+    }
+}
