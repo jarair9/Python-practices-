@@ -1,0 +1,5 @@
+google.generativeai
+python-dotenv
+pytube
+edge-tts
+mistralai==0.4.2
